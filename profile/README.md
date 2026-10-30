@@ -1,4 +1,9 @@
-## decktile
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/decktile/.github/master/profile/decktile-logo-dark.svg">
+    <img src="https://raw.githubusercontent.com/decktile/.github/master/profile/decktile-logo.svg" alt="decktile" width="360">
+  </picture>
+</p>
 
 Write slides in Markdown. Get designed decks as **HTML**, **PDF** and **editable ODP**
 (opens in PowerPoint, Keynote, Google Slides and LibreOffice).
