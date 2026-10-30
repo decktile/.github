@@ -15,7 +15,7 @@ decktile --pdf --odp slides.md
 
 - **Pure Python.** No Node.js, no browser, no system tools for diagrams.
 - **Looks designed by default.** Cards, grids, metrics, timelines and conference themes, with no CSS to write.
-- **Diagrams built in.** [predictygraph](https://github.com/predictygraph/predictygraph), mermaid and seaborn blocks pick up your theme's fonts and colours.
+- **Diagrams built in.** [predictygraph](https://github.com/predictygraph/predictygraph), mermaid and seaborn blocks pick up your theme's fonts and colours. predictygraph diagrams can animate in the HTML deck, with a still frame for PDF.
 - **Made for talks.** Presenter view with notes, autoplay, video, speaker cards.
 
 **Repository:** [decktile/decktile](https://github.com/decktile/decktile) ·
